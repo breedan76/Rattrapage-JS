@@ -1,0 +1,62 @@
+
+  
+  .container {
+    width: 70%;
+    margin: auto;
+    text-align: center;
+  }
+
+  img{
+      height: 70px;
+      width: 70px;
+  }
+  
+  .dice {
+    text-align: center;
+    display: inline-block;
+    margin-left: 100px;
+    margin-right: 100px;
+  }
+  
+  body {
+   background-image: url(images/bg.jpg);
+   height: 100%;
+   width: 100%;
+    font-family: Roboto, sans-serif;
+  }
+  
+
+  #jouer{
+    margin-top: 70px;
+    padding: 10px 20px;
+    border-radius: 5px;
+    border: none;
+    background-color: white;
+    color: black;
+    box-shadow: 0px 0px 12px 3px #232931;
+    cursor: pointer;
+    height: 70px;
+    width: 200px;
+  }
+  
+  #jouer:hover{
+    box-shadow: 0px 0px 10px 2px rgb(226, 226, 226);
+    background-color: black;
+    color: white;
+  }
+
+  
+  h1 {
+    margin: 100px;
+    color: black;
+  }
+  
+  p {
+    font-size: 2rem;
+    color: white;
+  }
+  
+ 
+  
+ 
+  
